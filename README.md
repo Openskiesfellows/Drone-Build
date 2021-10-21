@@ -111,6 +111,7 @@ This is the process that enables transmitter and receiver to communicate ,throug
     -Channel Map : No
     -Lost Mode Alarm : Yes 
 9. Esc Throttle Calibration
+
     -Switch on the transmitter
     
     -Put the transmitter sticks on the maximum level 
