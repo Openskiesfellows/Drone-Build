@@ -112,11 +112,17 @@ This is the process that enables transmitter and receiver to communicate ,throug
     -Lost Mode Alarm : Yes 
 9. Esc Throttle Calibration
     -Switch on the transmitter
+    
     -Put the transmitter sticks on the maximum level 
+    
     -Press the First and last button on the flight  controller
-    -Switch on the Quadcopter ,
+    
+    -Switch on the Quadcopter 
+    
     -After the Quadcopter is on it will display this message "Throttle Passing through"
-    -move stick to the minimum position 
+    
+    -move stick to the minimum position
+    
     -Then release the 1st and 4th Button 
 10. Arming 
     To power on the motor switch the transmitter first then plug in the Lipo Battery to switch on the kk flight controller ,then press the throttle stick down to the right to switch on the aircraft.
