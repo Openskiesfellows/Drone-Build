@@ -80,24 +80,28 @@ Inorder for this Transmitter to be used in a specific drone build ,you should cr
 5. PI Editor
 
    Roll(Aileron): 
+   
    P-Gain  75
    P-Limit 50
    I-Gain  40
    I-Limit 20
    
    Pitch(Elevator):
+   
    P-Gain  75
    P-Limit 50
    I-Gain  40
    I-Limit 20
    
    Yaw(Rudder):
+   
    P-Gain  75
    P-Limit 20
    I-Gain  30
    I-Limit 10
    
    Throttle:
+   
    P-Gain  75
    P-Limit 20
    I-Gain  30
