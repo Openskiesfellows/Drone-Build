@@ -32,7 +32,7 @@ In this guide, we will document the equipment necessary to build a trainer drone
 ### Assembling 
 ### Transmitter Configuration
 Transmitter used: Taranis QX7 
-Inorder for this Tranmsitter to be used in a specific drone build ,you should create a file within specific transmitter .the following are the procedures on how to setup your transmitter 
+Inorder for this Transmitter to be used in a specific drone build ,you should create a file within specific transmitter .the following are the procedures on how to setup your transmitter 
 * Switch on the Transmitter by pressing power button twice 
 * Click on the menu button
 * Use the Left button to move up and down select an empty number 
