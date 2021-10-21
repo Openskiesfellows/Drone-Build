@@ -33,7 +33,8 @@ In this guide, we will document the equipment necessary to build a trainer drone
 ### Transmitter Configuration
 Transmitter used: Flysky FS-i6
 * Switch on the transmitter by pushing the power button up
-* Click the cancel button to select the menu 
+* Long press the ok button to select the menu 
+* Click the ok button to navigate the system menu 
 * Use the up and down button to navigate 
 * use okay button to select 
 * Select the model that your going to use on system menu 
@@ -48,17 +49,12 @@ Transmitter used: Flysky FS-i6
 
 ### Binding 
 * Binding process this is the process that enables transmitter and receiver to communicate ,through this communication you will have full control of your drone 
-* Switch on the transimitter 
-* select the model that you created before
-* Click on the page section 
-* Drop down to Channel Range section 
-* Select "CH1-16"
-* Drop down to Receiver NUmber written as "RxNum"
-* Select Bind 
-* You will hear a beep sound from the transmitter 
-* switch on you drone while pressing the bind button on the receiver 
-* when the transmitter and Receiver bind the receiver provides a green light indicating its already bind with the receiver
-* Click the enter button on the transmitter and test to see if your drone is responding according to your transmitter stick movements 
+* Power on the receiver and the receiver used is FS-iA10B receiver 
+* when the receiver is on take your transmitter 
+* press the bind button on the transmitter 
+* While holding the bind button and power on the transmitter
+* When the receiver and transmitter have establish connection you will observe a green light on the receiver 
+
 ### kk 2.1.5 Configuration 
 1. Factory Reset
     Before putting any sort of configuration in the kk 2.1.5 flight controller the first thing is to erase all the data that may be contained in a particular flight controller before putting some new variables
