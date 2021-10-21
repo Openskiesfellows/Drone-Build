@@ -27,9 +27,8 @@ In this guide, we will document the equipment necessary to build a trainer drone
 * [4 Jumper cables](https://www.amazon.com/Premium-Breadboard-Jumper-100-Pack-Hellotronics/dp/B07GJDJ96Z/ref=sr_1_2_sspa?crid=1J1FHHCGZIKF6&dchild=1&keywords=female%2Bto%2Bfemale%2Bjumper%2Bwire&qid=1634804590&sprefix=female%2Bto%2Bfemale%2Bjumper%2B%2Caps%2C369&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRDk2RUlNRUpZRVJXJmVuY3J5cHRlZElkPUEwOTc1MjA5MTRMRUNVUjdBUkFBNSZlbmNyeXB0ZWRBZElkPUEwMTk2NDg1UTlIUldSVTIxNUVNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1) 
 <img src="https://user-images.githubusercontent.com/82501078/138246823-38dc4d98-9baa-4d30-9258-df2543b93bf1.jpg" width="400">
 
-
-### **Configuration**
 ### Assembling 
+### **Configuration**
 ### Transmitter Configuration
 Transmitter used: Flysky FS-i6
 * Switch on the transmitter by pushing the power button up
@@ -38,7 +37,7 @@ Transmitter used: Flysky FS-i6
 * Use the up and down button to navigate 
 * use okay button to select 
 * Select the model that your going to use on system menu 
-* Select the model for your drone, if its Plane,Delta or Mult
+* Select the model for your drone, if its Plane,Delta or Multi
 * For this design i use multi,Click ok 
 * Assign Channels 
     Throttle - CH3
@@ -114,9 +113,9 @@ This is the process that enables transmitter and receiver to communicate ,throug
 9. Esc Throttle Calibration
     -Switch on the transmitter
     -Put the transmitter sticks on the maximum level 
-    -Press the First and last button on the flight          controller
+    -Press the First and last button on the flight  controller
     -Switch on the Quadcopter ,
-    -After the Quadcopter is on it will display this      message "Throttle Passing through"
+    -After the Quadcopter is on it will display this message "Throttle Passing through"
     -move stick to the minimum position 
     -Then release the 1st and 4th Button 
 10. Arming 
