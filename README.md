@@ -3,14 +3,30 @@
 In this guide, we will document the equipment necessary to build a trainer drone using a KK flight controller. We will also provide the steps necessary to assembling the drone.
 
 ### **Equipment Required**
-* [Flight Controller](https://www.amazon.com/powerday-KK2-1-5-Flight-Control-Multi-Rotor/dp/B07Q2TT2WH/ref=sr_1_3?crid=2VEUV9S3FSWQS&dchild=1&keywords=kk+2.1.5+flight+controller&qid=1634803595&qsid=141-1731459-8838148&sprefix=kk+2.1.%2Caps%2C353&sr=8-3&sres=B07KDT5J41%2CB07Q2TT2WH%2CB00009OY9U%2CB08RHVYB68%2CB08WYN8KTP%2CB07QYQVQFS%2CB081ZS22VR%2CB01LYE4J1C%2CB01LZ1MQTL%2CB07DLKVKD5%2CB0842XYLGR%2CB01LX398IE%2CB01M1BNTZN%2CB01LY285ZH%2CB01N2PE8CZ%2CB08WZKP1GQ%2CB01M00UHE3%2CB089MJ63BD%2CB08BJMYS4P%2CB017H93IEQ)  - kk 2.1.5
-* [4 Electronic Speed Controller]() - 30A
+* Flight Controller - kk 2.1.5
+<img src="https://user-images.githubusercontent.com/82501078/138244980-4e991bd7-af93-4bff-a942-c8c3f9d21e19.jpg" width="400">
+
+* 4 Electronic Speed Controller - 30A
+<img src="https://user-images.githubusercontent.com/82501078/138245002-40e06bde-7be7-4d21-8a2e-ab1c6c41a7d5.jpg" width="400">
+
 * 4 Brushless Motors - 2212-920kv
-* 4 Propellers - 2ccw,2cw
-* Radio receiver - Frsky X8R
-* Radio Transmitter - Taranis X7 
+<img src="https://user-images.githubusercontent.com/82501078/138246161-1c720f3d-0cb1-4394-9927-85d5ad369f26.jpg" width="400">
+
+* 4 Propellers - 2ccw, 2cw
+<img src="https://user-images.githubusercontent.com/82501078/138246386-0d3a6d1b-29b3-4a35-b043-904741847981.jpg" width="400">
+
+* Radio receiver - Fly Sky ia10b
+<img src="https://user-images.githubusercontent.com/82501078/138246433-1cff1e30-02a6-44de-9e14-7153b5318520.jpg" width="400">
+
+* FLYSKY Radio Transmitter
+<img src="https://user-images.githubusercontent.com/82501078/138246757-10c897d2-92ac-41ce-b3d1-e9ebe8cf0c8d.jpg" width="400">
+
 * Frame - DJI F450
+<img src="https://user-images.githubusercontent.com/82501078/138246787-ec5dcd7c-9f46-419d-897a-5e08b0e9a768.jpg" width="400">
+
 * 4 Jumper cables 
+<img src="https://user-images.githubusercontent.com/82501078/138246823-38dc4d98-9baa-4d30-9258-df2543b93bf1.jpg" width="400">
+
 
 ### **Configuration**
 ### Assembling 
