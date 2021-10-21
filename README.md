@@ -48,7 +48,7 @@ Transmitter used: Flysky FS-i6
 *  Click okay to save your changes
 
 ### Binding 
-* Binding process this is the process that enables transmitter and receiver to communicate ,through this communication you will have full control of your drone 
+This is the process that enables transmitter and receiver to communicate ,through this communication you will have full control of your drone 
 * Power on the receiver and the receiver used is FS-iA10B receiver 
 * when the receiver is on take your transmitter 
 * press the bind button on the transmitter 
