@@ -78,25 +78,26 @@ Inorder for this Transmitter to be used in a specific drone build ,you should cr
     Minimum Throttle 10
     Alarm 105 
 5. PI Editor
-   Roll(Aileron) 
+
+   Roll(Aileron): 
    P-Gain  75
    P-Limit 50
    I-Gain  40
    I-Limit 20
    
-   Pitch(Elevator)
+   Pitch(Elevator):
    P-Gain  75
    P-Limit 50
    I-Gain  40
    I-Limit 20
    
-   Yaw(Rudder)
+   Yaw(Rudder):
    P-Gain  75
    P-Limit 20
    I-Gain  30
    I-Limit 10
    
-   Throttle
+   Throttle:
    P-Gain  75
    P-Limit 20
    I-Gain  30
