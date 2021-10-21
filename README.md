@@ -31,23 +31,20 @@ In this guide, we will document the equipment necessary to build a trainer drone
 ### **Configuration**
 ### Assembling 
 ### Transmitter Configuration
-Transmitter used: Taranis QX7 
-Inorder for this Transmitter to be used in a specific drone build ,you should create a file within specific transmitter .the following are the procedures on how to setup your transmitter 
-* Switch on the Transmitter by pressing power button twice 
-* Click on the menu button
-* Use the Left button to move up and down select an empty number 
-* Clic the left button to select the number
-* select option "Create Model"
-* Select model type if its Plane,Delta or MUlti 
-* For my design i selected Multi meaning a multirotor drone 
+Transmitter used: Flysky FS-i6
+* Switch on the transmitter by pushing the power button up
+* Click the cancel button to select the menu 
+* Use the up and down button to navigate 
+* use okay button to select 
+* Select the model that your going to use on system menu 
+* Select the model for your drone, if its Plane,Delta or Mult
+* For this design i use multi,Click ok 
 * Assign Channels 
     Throttle - CH3
     Roll - CH1
     Pitch - CH2
-    Yaw - CH4
-* Click page buttom in the transmitter 
-* Click enter to confirm 
-* Click on the page to give the name that you want for your model 
+    Yaw - CH4  
+*  Click okay to save your changes
 
 ### Binding 
 * Binding process this is the process that enables transmitter and receiver to communicate ,through this communication you will have full control of your drone 
