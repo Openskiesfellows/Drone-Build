@@ -27,7 +27,8 @@ In this guide, we will document the equipment necessary to build a trainer drone
 * [4 Jumper cables](https://www.amazon.com/Premium-Breadboard-Jumper-100-Pack-Hellotronics/dp/B07GJDJ96Z/ref=sr_1_2_sspa?crid=1J1FHHCGZIKF6&dchild=1&keywords=female%2Bto%2Bfemale%2Bjumper%2Bwire&qid=1634804590&sprefix=female%2Bto%2Bfemale%2Bjumper%2B%2Caps%2C369&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRDk2RUlNRUpZRVJXJmVuY3J5cHRlZElkPUEwOTc1MjA5MTRMRUNVUjdBUkFBNSZlbmNyeXB0ZWRBZElkPUEwMTk2NDg1UTlIUldSVTIxNUVNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1) 
 <img src="https://user-images.githubusercontent.com/82501078/138246823-38dc4d98-9baa-4d30-9258-df2543b93bf1.jpg" width="400">
 
-### Assembling 
+### Assembling
+
 ### **Configuration**
 ### Transmitter Configuration
 Transmitter used: Flysky FS-i6
