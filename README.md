@@ -28,6 +28,7 @@ In this guide, we will document the equipment necessary to build a trainer drone
 <img src="https://user-images.githubusercontent.com/82501078/138246823-38dc4d98-9baa-4d30-9258-df2543b93bf1.jpg" width="400">
 
 ### Assembling
+<img src="https://user-images.githubusercontent.com/82501078/138446280-7b9b546c-abbb-45db-9c47-64c43a934ea7.jpeg" width="400">
 
 ### **Configuration**
 ### Transmitter Configuration
